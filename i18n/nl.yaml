@@ -1,0 +1,30 @@
+- id: blogTitle
+  translation: Nieuwste Berichten
+- id: readMore
+  translation: Lees meer
+- id: viewAllPost
+  translation: Bekijk alle berichten
+- id: share
+  translation: Deel dit op socialmedia
+- id: aboutAuthor
+  translation: Over schrijver
+- id: authorsPosts
+  translation: Schrijver's berichten
+- id: all
+  translation: Alles
+- id: about
+  translation: Over ons
+- id: services
+  translation: Service
+- id: portfolio
+  translation: Portfolio
+- id: team
+  translation: Team
+- id: pricing
+  translation: Prijzen
+- id: blog
+  translation: Blog
+- id: contact
+  translation: Contact
+- id: themefisher
+  translation: Themefisher

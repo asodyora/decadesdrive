@@ -1,0 +1,12 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Routes
+  portfolio_item :
+    # portfolio item loop
+    - name : Scandinavië
+      image : images/routes/norway.jpg
+      image_webp : images/routes/norway.webp
+      categories : ["Scandinavië"]
+      content : Een heel kort rondje rondom Scandinavië
+      link : "/routes/scandinavia"
