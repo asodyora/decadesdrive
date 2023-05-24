@@ -11,8 +11,6 @@ layout: blog
 # Introductie
 In dit blogartikel neem ik je mee op een onvergetelijke reis van Nederland naar Tsjechië, waarbij we de charme van het reizen in een 50 jaar oude buscamper combineren met de vreugde van het hebben van een hondje als trouwe metgezel. Samen doorkruisen we Duitsland en Polen, en ontdekken we de schoonheid van deze landen terwijl we onderweg zijn naar ons uiteindelijke doel: Tsjechië.
 
-{{< gallery match="images/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
-
 ### De Start van een Groots Avontuur:
 Met de zon hoog aan de hemel en een gevoel van opwinding in de lucht, beginnen we aan ons avontuur. Onze trouwe viervoeter springt vol enthousiasme de 50 jaar oude buscamper in, klaar om nieuwe plekken te verkennen en nieuwe geuren te ontdekken. We zetten koers naar Duitsland, waar ons avontuur zich verder zal ontvouwen.
 
