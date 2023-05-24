@@ -69,7 +69,7 @@ weight = 2
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/logotest.png"
+logo = "images/logo.png"
 # Meta data
 description = "Responsive Multipurpose Parallax Hugo Template"
 author = "Dyo"
