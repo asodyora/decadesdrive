@@ -21,5 +21,3 @@ After a short drive through Poland, we continue into the Czech Republic. Here we
 
 ## A realization
 Now that we have arrived in the Czech Republic, it really begins to dawn on us that this is just the beginning of our Scandinavian journey. We look forward to traversing the vast landscapes of Sweden, exploring the fjords of Norway and enjoying the pristine nature of Finland.
-
-Translated with www.DeepL.com/Translator (free version)
