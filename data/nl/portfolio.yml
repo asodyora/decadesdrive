@@ -1,6 +1,6 @@
 #################################### portfolio ###############################
 portfolio:
-  enable : true
+  enable : false
   title : Routes
   portfolio_item :
     # portfolio item loop
