@@ -1,7 +1,7 @@
 ################################# Default configuration ###################
 baseURL = "https://decadesdrive.com/"
 title = "DecadesDrive"
-theme = ["meghna-hugo", "hugo-shortcode-gallery"]
+theme = "meghna-hugo"
 # post pagination
 paginate = "6"
 # post excerpt
