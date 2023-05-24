@@ -1,5 +1,5 @@
 ---
-title: "Het Begin van een Onvergetelijk Avontuur met mijn Vierpotige Reisgenoot"
+title: "The Beginning of an Unforgettable Adventure"
 date: 2023-05-23T18:00:00+06:00
 author: Dyo
 image_webp: images/blog/start-of-an-adventure/1.webp
