@@ -4,7 +4,7 @@ date: 2023-05-23T18:00:00+06:00
 author: Dyo
 image_webp: images/blog/start-of-an-adventure/1.webp
 image: images/blog/start-of-an-adventure/1.jpg
-description : "Deze zomer ben ik aan een grote reis begonnen. Het doel: de Noordkaap."
+description : "Deze zomer ben ik aan een grote reis begonnen. Het doel: de Noordkaap. In mijn blog neem ik je mee op mijn reis."
 layout: blog
 ---
 

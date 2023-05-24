@@ -4,7 +4,7 @@ date: 2023-05-23T18:00:00+06:00
 author: Dyo
 image_webp: images/blog/start-of-an-adventure/1.webp
 image: images/blog/start-of-an-adventure/1.jpg
-description : "Deze zomer ben ik aan een grote reis begonnen. Het doel: de Noordkaap."
+description : "This summer I embarked on a big journey. The goal: the North Cape. In my blog I will take you on my journey."
 layout: blog
 ---
 
